@@ -71,4 +71,3 @@ We thank (#MacTheobio)[https://twitter.com/hashtag/mactheobio?f=tweets&vertical=
 8. Perry, R. D., & Fetherston, J. D. (1997). Yersinia pestis--etiologic agent of plague. Clinical microbiology reviews, 10(1), 35-66.
 9. Kool, J. L., & Weinstein, R. A. (2005). Risk of person-to-person transmission of pneumonic plague. Clinical Infectious Diseases, 40(8), 1166-1172.
 10. Gani, R., & Leach, S. (2004). Epidemiologic determinants for modeling pneumonic plague outbreaks. Emerging infectious diseases, 10(4), 608.
-
