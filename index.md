@@ -13,7 +13,7 @@
 
 ## Combined transmission model
 
-![model](https://github.com/plagueposter/plagueposter.github.io/blob/master/images/propose.png)
+![model](https://github.com/plagueposter/plagueposter.github.io/raw/master/images/propose.png)
 
 * Direct human-to-human transmission (pneumonic plague)
 * Indirect human-to-human transmission (bubonic plague) via human ectoparasites
@@ -22,7 +22,7 @@
 
 ## Biologically informed priors
 
-![prior](https://github.com/plagueposter/plagueposter.github.io/blob/master/images/prior_data2.png)
+![prior](https://github.com/plagueposter/plagueposter.github.io/raw/master/images/prior_data2.png)
 
 * Represents uncertainty in our knowledge about the biology
 * Use biologically informed priors on all model parameters
@@ -30,7 +30,7 @@
 
 ## Results
 
-![prior](https://github.com/plagueposter/plagueposter.github.io/blob/master/images/combres.png)
+![prior](https://github.com/plagueposter/plagueposter.github.io/raw/master/images/combres.png)
 
 (Top) Fits of combined model to mortality data from the Second Pandemic epidemics. For each posterior sample, a filtered trajectory is calculated using 500 particles. Solid lines represent median trajectories. Shaded regions represent equi-tailed 95% credible intervals. Numbers on top right represent goodness of fit. (Bottom) Relative contribution of each transmission route. Proportion of total incidence caused by pneumonic plague (PP), (human) ectoparasite plague (EP), and rat-flea plague (RP) is calculated for each filtered trajectory; this summary is mapped onto a ternary plot. Shaded areas represent 95% highest posterior density regions.
 
@@ -38,15 +38,15 @@
 
 #### Case 1: correctly identifies the true mechanism and rules out other mechanisms (5/18)
 
-![prior](https://github.com/plagueposter/plagueposter.github.io/blob/master/images/g1.png)
+![prior](https://github.com/plagueposter/plagueposter.github.io/raw/master/images/g1.png)
 
 #### Case 2: unclear results but does not rule out the true mechanism (12/18)
 
-![prior](https://github.com/plagueposter/plagueposter.github.io/blob/master/images/g2.png)
+![prior](https://github.com/plagueposter/plagueposter.github.io/raw/master/images/g2.png)
 
 #### Case 3: rules out the true mechanism (1/18)
 
-![prior](https://github.com/plagueposter/plagueposter.github.io/blob/master/images/g3.png)
+![prior](https://github.com/plagueposter/plagueposter.github.io/raw/master/images/g3.png)
 
 ## Conclusions and open questions
 
