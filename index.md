@@ -57,7 +57,7 @@
 
 ## Acknowledgements
 
-We thank (#MacTheobio)[https://twitter.com/hashtag/mactheobio?f=tweets&vertical=default] lab for useful comments, Aaron King for discussions on particle filtering, Katharine Dean for the mortality time series, the Natural Science and Engineering Research Council of Canada (NSERC) for funding, and SHARCNET for computational resources.
+We thank [#MacTheobio](https://twitter.com/hashtag/mactheobio?f=tweets&vertical=default) lab for useful comments, Aaron King for discussions on particle filtering, Katharine Dean for the mortality time series, the Natural Science and Engineering Research Council of Canada (NSERC) for funding, and SHARCNET for computational resources.
 
 ## Reference
 
