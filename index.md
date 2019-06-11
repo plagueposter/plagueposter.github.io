@@ -1,4 +1,4 @@
-## Sang Woo Park<sup>1, *</sup>, Jonathan Dushoff<sup>2</sup>, and Ben Bolker<sup>1, 2, 3</sup>
+## Sang Woo Park<sup>1, *</sup>, Jonathan Dushoff<sup>2</sup>, and Benjamin M. Bolker<sup>1, 2, 3</sup>
 
 1. Department of Mathematics & Statistics, McMaster University, Hamilton, ON, Canada
 2. Department of Biology, McMaster University, Hamilton, ON, Canada
